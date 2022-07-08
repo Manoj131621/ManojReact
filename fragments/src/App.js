@@ -1,13 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
 import FragmentDemo from './components/FragmentDemo'
-import table from './components/table';
+import Table from './components/Table';
 
 function App() {
   return (
     <div className="App">
     {/* <FragmentDemo/> */}
-    <table/>
+    <Table/>
     </div>
   );
 }

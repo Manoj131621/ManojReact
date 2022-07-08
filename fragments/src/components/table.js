@@ -1,12 +1,12 @@
 import React from 'react'
-import columns from './columns'
+import Columns from './Columns'
 
 function table() {
   return (
     <table>
         <tbody>
             <tr>
-               <columns/>
+               <Columns/>
             </tr>
         </tbody>
     </table>
